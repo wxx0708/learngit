@@ -1,2 +1,3 @@
 nihao haha haha
 woshi di er hang ya
+Git has a mutable index called stage.
