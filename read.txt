@@ -3,3 +3,4 @@ woshi di er hang ya
 Git has a mutable index called stage.
 Git tracks changes.
 creatin a new branch is quick AND simple.
+add merge
